@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm RutohrhSdctarling
 
-<!--
-**RutohrhSdctarling/RutohrhSdctarling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎬 🥋 🎹 🎾 Interested in blockchain 🎬 🥋 🎹 🎾
 
-Here are some ideas to get you started:
+## About Me
+🎳 💻 🥋 Building the future with algorithms 🎳 💻 🥋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎰 🏓 🏓 🏏 Creating amazing things with blockchain 🎰 🏓 🏓 🏏
+
+### Fun Facts
+🏊 🏏 🎽 🛹 Building the future with technical writing 🏊 🏏 🎽 🛹
+
+---
+🌺 🏄 🥋 🚵 🥋 Thanks for visiting my profile! 🎯 🎤 🏏 🚴 🚵
